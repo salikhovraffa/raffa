@@ -4,7 +4,7 @@ raffa
 
 [[package]]
 name = "aiohttp"
-version = "3.8.6"
+version = "3.8.5"
 description = "Async http client/server framework (asyncio)"
 optional = false
 python-versions = ">=3.6"
